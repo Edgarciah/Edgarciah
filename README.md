@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://streamlit.io/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" height="30" /></a>
+<a href="https://streamlit.io/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-4v2f55fn.png" height="30" /></a>
 <a href="https://streamlit.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/968d1eb8fb6b704c6be917f0000283face4f33ee/topics/streamlit/streamlit.png" height="30" /></a>
 
 <!--
