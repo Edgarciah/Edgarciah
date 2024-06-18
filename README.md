@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3915/PNG/512/streamlit_logo_icon_249495.png" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3915/PNG/512/streamlit_logo_icon_249495.png" height="30" /></a>
 <!--
 **Edgarciah/Edgarciah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
