@@ -2,7 +2,7 @@
 
 
 
-<a href="https://streamlit.io/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/microsoft-azure-icon-512x396-6fn0yfat.png" height="20" /></a>
+<a href="https://streamlit.io/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/microsoft-azure-icon-512x396-6fn0yfat.png" height="30" /></a>
 <a href="https://streamlit.io/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" height="40" /></a>
 <a href="https://streamlit.io/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-4v2f55fn.png" height="40" /></a>
 <a href="https://streamlit.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/968d1eb8fb6b704c6be917f0000283face4f33ee/topics/streamlit/streamlit.png" height="40" /></a>
