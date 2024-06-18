@@ -3,7 +3,7 @@
 
 
 
-<a href="https://streamlit.io/" target="blank"><img align="center" src="https://banner2.cleanpng.com/20180811/pul/kisspng-python-general-purpose-programming-language-comput-python-programming-language-symphony-solution-5b6ee0c863a5a1.6306397415339931604082.jpg" height="40" /></a>
+<a href="https://streamlit.io/" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/512/5968/5968286.png" height="40" /></a>
 <a href="https://streamlit.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/968d1eb8fb6b704c6be917f0000283face4f33ee/topics/streamlit/streamlit.png" height="40" /></a>
 <a href="https://streamlit.io/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-4v2f55fn.png" height="40" /></a>
 <a href="https://streamlit.io/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/azure-icon-512x512-zy9vpi1t.png" height="40" /></a>
