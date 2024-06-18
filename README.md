@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<a href="https://streamlit.io/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-4v2f55fn.png" height="30" /></a>
-<a href="https://streamlit.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/968d1eb8fb6b704c6be917f0000283face4f33ee/topics/streamlit/streamlit.png" height="30" /></a>
+<a href="https://streamlit.io/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-4v2f55fn.png" height="40" /></a>
+<a href="https://streamlit.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/968d1eb8fb6b704c6be917f0000283face4f33ee/topics/streamlit/streamlit.png" height="40" /></a>
 
 <!--
 **Edgarciah/Edgarciah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
